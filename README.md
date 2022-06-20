@@ -1,6 +1,6 @@
 # ConFusion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2. This project is meant to log my learning journey with angular as I learn various nuances of Angular & thus is for personal use and not an app/website for anyone to use.
 
 ## Development server
 
